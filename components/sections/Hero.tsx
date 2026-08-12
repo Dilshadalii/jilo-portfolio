@@ -9,7 +9,7 @@ export default function Hero() {
         Available for Freelance Projects
       </div>
 
-      <h1 className="text-6xl sm:text-7xl md:text-8xl font-extrabold leading-none tracking-tight">
+      <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold leading-none tracking-tight">
         <span className="text-foreground">MUHAMMAD</span>
         <br />
         <span className="text-accent">JIBRAIL</span>
